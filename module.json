@@ -38,7 +38,7 @@
         }
     ],
     "url": "https://github.com/OldTinfoil/playlist-enhancer",
-    "manifest": "https://github.com/OldTinfoil/playlist-enhancer/releases/latest/download/module.json",
+    "manifest": "https://github.com/OldTinfoil/playlist-enhancer/releases/download/v1.1.7/module.json",
     "download": "https://github.com/OldTinfoil/playlist-enhancer/releases/download/1.1.7/module.zip",
     "changelog": "https://github.com/OldTinfoil/playlist-enhancer/releases",
     "bugs": "https://github.com/OldTinfoil/playlist-enhancer/issues",
